@@ -1,4 +1,0 @@
-heart risk level prediction webapp- tutorial, understood
-tensorflow object detection api, understood
-cnn self driving car
-cloud computing part
