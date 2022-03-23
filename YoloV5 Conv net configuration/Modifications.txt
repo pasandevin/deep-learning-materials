@@ -1,5 +1,0 @@
-!unzip -q ../pedestrain_data.zip -d ../
-
-!python detect.py --weights runs/train/exp5/weights/last.pt --img 640 --conf 0.25 --source ../video.mp4
-
-!python train.py --img 640 --batch 16 --epochs 80 --data coco128.yaml --weights yolov5s.pt --nosave --cache
